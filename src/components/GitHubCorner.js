@@ -3,7 +3,7 @@ import React from 'react';
 export default function GitHubCorner() {
   return (
     <a
-      href="https://github.com/chetanraj/snpt"
+      href="https://github.com/scottpipia/snippets"
       target="_blank"
       rel="noopener noreferrer"
       className="github-corner"

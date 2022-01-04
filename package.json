@@ -1,9 +1,9 @@
 {
-  "name": "snpt",
+  "name": "snippets",
   "version": "0.1.0",
   "description": "✂️A simple snippets app.",
-  "author": "Chetan Raj <chetan.narian@gmail.com> (https://chetanraj.in/)",
-  "repository": "https://github.com/chetanraj/snpt",
+  "author": "Scott Pipia <scottp@nextdooragency.com>",
+  "repository": "https://github.com/scottpipia/snippets",
   "private": true,
   "license": "MIT",
   "dependencies": {
